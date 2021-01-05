@@ -1,0 +1,7 @@
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\bin\Debug\TilfældighederOpg.exe.config
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\bin\Debug\TilfældighederOpg.exe
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\bin\Debug\TilfældighederOpg.pdb
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\obj\Debug\TilfældighederOpg.csprojAssemblyReference.cache
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\obj\Debug\TilfældighederOpg.csproj.CoreCompileInputs.cache
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\obj\Debug\TilfældighederOpg.exe
+C:\Users\PC Morten\source\repos\TilfældighederOpg\TilfældighederOpg\obj\Debug\TilfældighederOpg.pdb

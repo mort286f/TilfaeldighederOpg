@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilfældighederOpg", "TilfældighederOpg\TilfældighederOpg.csproj", "{FE806747-6C0C-4EB2-9A60-DDD39441067E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE806747-6C0C-4EB2-9A60-DDD39441067E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE806747-6C0C-4EB2-9A60-DDD39441067E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE806747-6C0C-4EB2-9A60-DDD39441067E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE806747-6C0C-4EB2-9A60-DDD39441067E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A81D24-9314-4EB1-9453-4AD0C7F0EFF4}
+	EndGlobalSection
+EndGlobal
